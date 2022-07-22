@@ -44,3 +44,4 @@ computation that has to start over from the beginning if you stop and restart
 it.  A solution might be found at any given moment it's running.  As a reward
 for supporting the network, you receive coins when you successfully generate a
 block.
+..
